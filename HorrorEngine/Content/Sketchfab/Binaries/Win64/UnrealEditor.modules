@@ -1,0 +1,12 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"SketchfabAssetBrowser": "UnrealEditor-SketchfabAssetBrowser.dll",
+		"SketchfabGLTF": "UnrealEditor-SketchfabGLTF.dll",
+		"SKGLTFExporter": "UnrealEditor-SKGLTFExporter.dll",
+		"SKGLTFExporterRuntime": "UnrealEditor-SKGLTFExporterRuntime.dll",
+		"SKGLTFMaterialAnalyzer": "UnrealEditor-SKGLTFMaterialAnalyzer.dll",
+		"SKGLTFMaterialBaking": "UnrealEditor-SKGLTFMaterialBaking.dll"
+	}
+}
